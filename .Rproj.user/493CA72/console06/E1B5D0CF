@@ -1,0 +1,5 @@
+]0;/home/rstudio/iriswidgetrstudio@dc7eb98585bc:~/iriswidget$ [Krstudio@dc7eb98585bc:~/iriswidget$ ls
+DESCRIPTION  inst  iriswidget.Rproj  man  NAMESPACE  R
+]0;/home/rstudio/iriswidgetrstudio@dc7eb98585bc:~/iriswidget$ git init
+Initialized empty Git repository in /home/rstudio/iriswidget/.git/
+]0;/home/rstudio/iriswidgetrstudio@dc7eb98585bc:~/iriswidget$ git add .
