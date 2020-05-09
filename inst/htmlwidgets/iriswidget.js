@@ -16,7 +16,8 @@ HTMLWidgets.widget({
 
         //el.innerText = x.message;
         console.log("hi!");
-
+        //var reader = new FileReader();
+        //reader.readAsBinaryString(x.data);
         el = draw_plot();
 
       },

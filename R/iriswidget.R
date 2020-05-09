@@ -1,15 +1,25 @@
-#' <Add Title>
+#' Iris widget
 #'
-#' <Add Description>
+#' This calls the javascript bit for the mouseover
 #'
 #' @import htmlwidgets
 #'
 #' @export
 iriswidget <- function(message, width = NULL, height = NULL, elementId = NULL) {
-
+    # print(readbitmap::read.bitmap(("iris.png")))
   # forward options using x
   x = list(
-    message = message
+    message = message,
+
+    # This doesn't work for the data -
+    # basically it seems almost impossible to
+    # pass an image to JS from R - or at least I
+    # can't work out how. Also there is the
+    # secondary question of whether it's a good idea.
+    # You will ultimately end up working backwards from
+    # pixels. Might it not be a better idea to pass data?
+
+    data = readBin("iris.png", what="raw")
   )
 
   # create widget

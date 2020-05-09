@@ -3,3 +3,90 @@ DESCRIPTION  inst  iriswidget.Rproj  man  NAMESPACE  R
 ]0;/home/rstudio/iriswidgetrstudio@dc7eb98585bc:~/iriswidget$ git init
 Initialized empty Git repository in /home/rstudio/iriswidget/.git/
 ]0;/home/rstudio/iriswidgetrstudio@dc7eb98585bc:~/iriswidget$ git add .
+]0;/home/rstudio/iriswidgetrstudio@dc7eb98585bc:~/iriswidget$ g[Kgit commit -m "first commit  - [K[Ksemi-working"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident name (for <(null)>) not allowed
+]0;/home/rstudio/iriswidgetrstudio@dc7eb98585bc:~/iriswidget$ git config --global user.ema il samrickman+githubpro@gmail.com
+]0;/home/rstudio/iriswidgetrstudio@dc7eb98585bc:~/iriswidget$ git config --global user.emaiil samrickman+githubpro@gmail.com[A[C[C[C[C[C[C[C[Cmmit -m "first commit s[20Pemi-working"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident name (for <(null)>) not allowed
+]0;/home/rstudio/iriswidgetrstudio@dc7eb98585bc:~/iriswidget$ git remote add origin https:///github.com/samrickman/R_html_widget_test.git
+]0;/home/rstudio/iriswidgetrstudio@dc7eb98585bc:~/iriswidget$ git push -u origin master
+error: src refspec master does not match any.
+error: failed to push some refs to 'https://github.com/samrickman/R_html_widget_test.git'
+]0;/home/rstudio/iriswidgetrstudio@dc7eb98585bc:~/iriswidget$ git commit -m "first commit" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident name (for <(null)>) not allowed
+]0;/home/rstudio/iriswidgetrstudio@dc7eb98585bc:~/iriswidget$ git config --global user.ema il samrickman+githubpro@gmail.com
+]0;/home/rstudio/iriswidgetrstudio@dc7eb98585bc:~/iriswidget$ git config --global user.emaiil samrickman+githubpro@gmail.com[A[C[C[C[C[C[C[C[Cmmit -m "first commit" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident name (for <(null)>) not allowed
+]0;/home/rstudio/iriswidgetrstudio@dc7eb98585bc:~/iriswidget$ git commit -m "first commit" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnfig --global user.emaiil samrickman+githubpro@gmail.com
+]0;/home/rstudio/iriswidgetrstudio@dc7eb98585bc:~/iriswidget$ git config --global user.emaiil samrickman+githubpro@gmail.com[A[C[C[C[C[C[C[C[Cmmit -m "first commit" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident name (for <(null)>) not allowed
+]0;/home/rstudio/iriswidgetrstudio@dc7eb98585bc:~/iriswidget$ git commit -m "first commit" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnfig --global user.emaiil samrickman+githubpro@gmail.com[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C user.email[1P samrickman+githubpro@gmail.com[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C user.email [1Psamrickman+githubpro@gmail.com[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C user.email s[1Pamrickman+githubpro@gmail.com[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C user.email sa[1Pmrickman+githubpro@gmail.com[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C user.email sam[1Prickman+githubpro@gmail.com[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C user.email samr[1Pickman+githubpro@gmail.com[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C user.email samri[1Pckman+githubpro@gmail.com[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C user.email samric[1Pkman+githubpro@gmail.com[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cuser.email samrick[1Pman+githubpro@gmail.com[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+]0;/home/rstudio/iriswidgetrstudio@dc7eb98585bc:~/iriswidget$ git config user.email samrickkman+githubpro@gmail.com[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmmit -m "first commit" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident name (for <(null)>) not allowed
